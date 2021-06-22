@@ -8,13 +8,13 @@ In the project, we are going to forecast hotel occupancy 4 days out (e.g., Today
 
 Mean Absolute Error (MAE) on a hold-out set = 4.9%. In other words, on average, we are <5% off when forecasting a hotel's occupancy. As a comparison, when there is no model (i.e., directly use last year's occupancy as this year's occupancy on a same weekday), we are on average 8% occupancy points off.
 
-### Model used
+### Methods used
 
 0) Cross-fold validation
-1) Random Forest
-2) Ridge Regression
-3) Lasso Regression
-4) Same Day Last Year
+1) Same Day Last Year
+2) Random Forest
+3) Ridge Regression
+4) Lasso Regression
 5) Multiple Regression
 6) Grid Search for hyperparameter tuning
 

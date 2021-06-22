@@ -1,4 +1,4 @@
-# Hotel Demand Forecast Using Machine Learning
+# Hotel Demand Forecast - Machine Learning
 
 ## The goal/inspiration
 

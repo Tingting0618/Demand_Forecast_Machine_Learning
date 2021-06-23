@@ -39,13 +39,17 @@ class: the dummy variable describes a hotel's class (e.g., luxury vs economy)
 
 ![Holdoutset](https://user-images.githubusercontent.com/44503223/123178699-5b0bc380-d44d-11eb-9c76-c2b592b9ffc3.png)
 
+**Train/Test/Holdout Split Procedures**
+
+![traintest](https://user-images.githubusercontent.com/44503223/123180423-d9b63000-d450-11eb-91a7-1d4400fb7269.png)
+
 **Demo:**
 
-For the fifth hotel, it has 93.7% occupancy same weekday last year, and 4 weeks prior to target predicting date, this hotel has 39.9% booked. In addition, this is a Upscale Class hotel (e.g., Doubletree, Crowne Plaza, etc.) The prediction is 88% for this Friday, and the actual occupancy is 90%. (This prediction is from trained Random Forest model.)
+For the fifth hotel, it has 93.7% occupancy the same weekday last year, and 4 weeks prior to the target predicting date, this hotel has 39.9% booked. In addition, this is an Upscale Class hotel (e.g., Doubletree, Crowne Plaza, etc.) The prediction is 88% for this Friday, and the actual occupancy is 90%. (This prediction is from the trained Random Forest model.)
 
 ![first instance](https://user-images.githubusercontent.com/44503223/123179333-c6a26080-d44e-11eb-807c-9e7502c764f3.png)
 
-**Understand the blackbox:**
+**Understand the black box:**
 
 ![model interpretation](https://user-images.githubusercontent.com/44503223/123179469-13863700-d44f-11eb-868f-0fe297030c15.png)
 
@@ -63,13 +67,9 @@ Based on SHAP value, the occupancy last year and booked room 4 days prior to the
 
 Mean Absolute Error: 4.9%. On average, the model is off by 4.9% in hotel occupancy. For example: Forecasted Occupancy: 90%; Actual Occupancy: 85.1%
 
-Without any modeling (i.e., merely using the same-day last year’s data), the model is off by 8% in hotel occupancy.
+Without any modeling (i.e., merely using the same-day last year’s data), the model is off by 8% in hotel occupancy. The model improved the accuracy by **37.5% **[(5% - 8%)/8%]
 
-The model improved the accuracy by 37.5% [(5% - 8%)/8%]
 
-**Train/Test/Holdout Split Procedures**
-
-![traintest](https://user-images.githubusercontent.com/44503223/123180423-d9b63000-d450-11eb-91a7-1d4400fb7269.png)
 
 ## Learn More
 

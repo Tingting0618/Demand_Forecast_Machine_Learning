@@ -67,8 +67,9 @@ Without any modeling (i.e., merely using the same-day last year’s data), the m
 
 The model improved the accuracy by 37.5% [(5% - 8%)/8%]
 
-![image](https://user-images.githubusercontent.com/44503223/123180207-70362180-d450-11eb-9eca-b85b8a933c19.png)
+**Train/Test/Holdout Split Procedures**
 
+![traintest](https://user-images.githubusercontent.com/44503223/123180423-d9b63000-d450-11eb-91a7-1d4400fb7269.png)
 
 ## Learn More
 

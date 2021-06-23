@@ -20,7 +20,7 @@ Mean Absolute Error (MAE) on a hold-out set = 4.9%. In other words, on average, 
 
 ### Technologies used
 
-Python, SQL
+Python (scikit-learn, SHAP, pandas), SQL
 
 ### Data source
 
@@ -28,7 +28,7 @@ Historical and forward-looking, property-level hotel demand data is provided by 
 
 ### Demo/details
 
-**Data preview: **
+**Data preview:**
 
 In the holdout set, we have occupancy information: 
 occ_x: Last year, same day's occupancy

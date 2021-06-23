@@ -55,7 +55,7 @@ For the fifth hotel, it has 93.7% occupancy the same weekday last year, and 4 we
 
 In this example, since the hotel has a relatively high price ($233 per room night!), the predicted demand was reduced a little bit. Also, since this hotel was popular last year same weekday, and also was pretty full 4 days and 1 week prior to the target prediction date, the predicted occupancy was increased a little bit. 
 
-**Most important factors that drive hotel demand**
+**Most important factors that impact hotel demand this year**
 
 ![factors](https://user-images.githubusercontent.com/44503223/123179919-ef772580-d44f-11eb-8083-3b89f5d93a01.png)
 

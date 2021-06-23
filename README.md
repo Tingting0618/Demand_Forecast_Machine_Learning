@@ -67,7 +67,7 @@ Based on SHAP value, the occupancy last year and booked room 4 days prior to the
 
 Mean Absolute Error: 4.9%. On average, the model is off by 4.9% in hotel occupancy. For example: Forecasted Occupancy: 90%; Actual Occupancy: 85.1%
 
-Without any modeling (i.e., merely using the same-day last year’s data), the model is off by 8% in hotel occupancy. The model improved the accuracy by **37.5% **[(5% - 8%)/8%]
+Without any modeling (i.e., merely using the same-day last year’s data), the model is off by 8% in hotel occupancy. The model improved the accuracy by **37.5%** [(5% - 8%)/8%]
 
 
 

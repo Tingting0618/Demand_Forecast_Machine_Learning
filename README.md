@@ -31,11 +31,11 @@ Historical and forward-looking, property-level hotel demand data is provided by 
 **Data preview:**
 
 In the holdout set, we have occupancy information: 
-occ_x: Last year, same day's occupancy
-ADR: Average Daily Rate of a room
-4W: 4 weeks away from the target predicting date, the % of hotel rooms that have been booked.
-3w: 3 weeks away from the target predicting date, the % of hotel rooms that have been booked.
-class: the dummy variable describes a hotel's class (e.g., luxury vs economy) 
+- occ_x: Last year, same day's occupancy
+- ADR: Average Daily Rate of a room
+- 4W: 4 weeks away from the target predicting date, the % of hotel rooms that have been booked.
+- 3w: 3 weeks away from the target predicting date, the % of hotel rooms that have been booked.
+- class: the dummy variable describes a hotel's class (e.g., luxury vs economy) 
 
 ![Holdoutset](https://user-images.githubusercontent.com/44503223/123178699-5b0bc380-d44d-11eb-9c76-c2b592b9ffc3.png)
 

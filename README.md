@@ -73,5 +73,5 @@ Without any modeling (i.e., merely using the same-day last year’s data), the m
 
 ## Learn More
 
-To learn more, please visit the Project Portfolio page at https://tingting0618.github.io
+For more information, please check out the [Project Portfolio](https://tingting0618.github.io).
 

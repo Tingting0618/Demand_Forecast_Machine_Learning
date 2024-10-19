@@ -69,9 +69,3 @@ Mean Absolute Error: 4.9%. On average, the model is off by 4.9% in hotel occupan
 
 Without any modeling (i.e., merely using the same-day last year’s data), the model is off by 8% in hotel occupancy. The model improved the accuracy by **37.5%** [(5% - 8%)/8%]
 
-
-
-## Learn More
-
-For more information, please check out the [Project Portfolio](https://tingting0618.github.io).
-
